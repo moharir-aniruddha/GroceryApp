@@ -30,7 +30,7 @@ This project is designed for home delivery convenience, especially for **work-fr
 ##  🚀 How to Run the Project Locally
 
 # Step 1: Clone the repository
-git clone https://github.com/your-username/grocery-app.git
+git clone https://github.com/moharir-aniruddha/GroceryApp.git
 
 # Step 2: Navigate to the project directory
 cd grocery-app
